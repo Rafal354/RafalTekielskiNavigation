@@ -3,8 +3,13 @@
     <string name="go_to_second_activity">Go to second activity</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="go_to_second_activity_fragment_btn">Go to second activity fragment btn</string>
-    <string name="nav_back_to_main_fragment">Nav back to main fragment</string>
-    <string name="go_to_third_activity_fragment_btn">go_to_third_activity_fragment_btn</string>
-    <string name="go_to_main_activity_btn">go_to_main_activity_btn</string>
+    <string name="go_to_second_activity_fragment_btn">Go to Second Fragment</string>
+    <string name="nav_back_to_main_fragment">Back to First</string>
+    <string name="go_to_third_activity_fragment_btn">Go to Third Fragment</string>
+    <string name="go_to_main_activity_btn">Go to Main Activity</string>
+    <string name="write_to_logcat">Write to LogCat</string>
+    <string name="write_to_logcat_listener">Write to LogCat Listener</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="write_to_editview">Write To EditView</string>
+    <string name="back_to_first_fragment">Back to First Fragment</string>
 </resources>

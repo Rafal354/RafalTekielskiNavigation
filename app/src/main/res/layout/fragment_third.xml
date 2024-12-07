@@ -3,18 +3,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ThirdFragment"
-    android:background="@android:color/holo_orange_dark"
-    >
+    android:background="@android:color/holo_red_dark"
+    tools:context=".ThirdFragment">
 
     <Button
         android:id="@+id/navBackToMainFragmentBtn2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:backgroundTint="@android:color/holo_green_light"
         android:text="@string/nav_back_to_main_fragment"
-        android:textSize="28sp"
-        />
+        android:textSize="28sp" />
 
 </FrameLayout>
